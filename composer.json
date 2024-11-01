@@ -1,0 +1,17 @@
+{
+  "name": "bktechouse/urubutopay-for-woocommerce",
+  "description": "Pay using UrubutoPay in your Woocommerce store",
+  "autoload": {
+    "psr-4": {
+      "Bktechouse\\UrubutopayForWoocommerce\\": "src/"
+    }
+  },
+  "authors": [
+    {
+      "name": "bktechouse"
+    }
+  ],
+  "require": {
+    "firebase/php-jwt": "^6.5"
+  }
+}
